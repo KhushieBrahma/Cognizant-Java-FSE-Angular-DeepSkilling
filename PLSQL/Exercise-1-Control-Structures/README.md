@@ -115,7 +115,7 @@ Generate reminder messages for customers whose loan repayment is due within the 
 ---
 
 ## 6. Scenario 3 Result
-![Scenario 3](images/scenario3_output.png)
+![Scenario 3](images/scenario3_result.png)
 
 ---
 
