@@ -1,5 +1,4 @@
 # Exercise 1 - Setting Up JUnit
----
 
 ## Objective
 Set up JUnit in a Java Maven project and create a simple unit test to verify the functionality of a Java method.
