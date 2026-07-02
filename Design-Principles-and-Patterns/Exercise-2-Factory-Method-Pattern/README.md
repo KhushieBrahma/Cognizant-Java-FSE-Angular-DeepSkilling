@@ -25,7 +25,6 @@ Opening Excel Document
 ```
 
 ## Program Output
-(Add your IntelliJ output screenshot here)
 ![Program Output](images/output.png)
 
 ## Concepts Used
