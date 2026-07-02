@@ -1,7 +1,5 @@
 # Exercise 3 - Stored Procedures
 
----
-
 ## Objective
 The objective of this exercise is to understand and implement Oracle PL/SQL Stored Procedures for automating common banking operations.
 
