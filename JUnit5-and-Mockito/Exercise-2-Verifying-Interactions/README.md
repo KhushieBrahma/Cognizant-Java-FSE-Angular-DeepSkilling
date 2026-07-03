@@ -43,7 +43,7 @@ MockingAndStubbing
 
 ## Output
 ### Test Result
-![Test Passed](screenshots/test_passed.png)
+![Test Passed](images/test_passed.png)
 
 ---
 
