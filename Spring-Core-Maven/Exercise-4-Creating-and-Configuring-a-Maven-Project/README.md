@@ -30,16 +30,16 @@ Create and configure a Maven project for a Spring application by adding Spring d
 ## Screenshots
 
 ### Project Structure
-![Project](screenshots/project_structure.png)
+![Project](images/project_structure.png)
 
 ### Maven Compiler Plugin
-![Compiler](screenshots/compiler_plugin.png)
+![Compiler](images/compiler_plugin.png)
 
 ### External Libraries
-![Libraries](screenshots/external_libraries.png)
+![Libraries](images/external_libraries.png)
 
 ### Build Success
-![Output](screenshots/build_success.png)
+![Output](images/build_success.png)
 
 ---
 
