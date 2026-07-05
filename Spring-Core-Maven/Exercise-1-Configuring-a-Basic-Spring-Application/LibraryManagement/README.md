@@ -28,7 +28,7 @@ LibraryManagement
 │   │   │           └── BookRepository.java
 │   │   └── resources
 │   │       └── applicationContext.xml
-└── screenshots
+└── images
 ```
 
 ---
