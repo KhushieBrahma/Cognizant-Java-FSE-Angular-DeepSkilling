@@ -32,7 +32,7 @@ SLF4JLoggingExample
 │       └── java
 │             LoggingExample.java
 │
-└── screenshots
+└── images
 ```
 
 ---
