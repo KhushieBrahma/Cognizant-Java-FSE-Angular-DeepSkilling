@@ -161,7 +161,3 @@ Compiles the application, runs tests, and generates the executable JAR file.
 This hands-on exercise provided practical experience in creating a Spring Boot web application using Maven. It demonstrated how Maven manages project dependencies, how Spring Boot simplifies application development, and how IntelliJ IDEA can be used to build and run a Spring Boot project efficiently.
 
 ---
-
-B.Tech Computer Science & Engineering
-
-Cognizant Digital Nurture 4.0 – Java FSE Hands-on Exercises
