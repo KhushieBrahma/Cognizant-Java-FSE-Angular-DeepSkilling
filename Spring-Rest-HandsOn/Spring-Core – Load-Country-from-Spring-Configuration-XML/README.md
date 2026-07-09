@@ -42,7 +42,7 @@ Built the project using Maven.
 ```bash
 ./mvnw clean install
 ```
-### Screenshot
+
 ![Build Success](images/build_success.png)
 
 ---
