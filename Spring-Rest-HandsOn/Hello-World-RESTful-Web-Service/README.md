@@ -74,7 +74,7 @@ Hello World!!
 Included debug logs at the beginning and end of the method.
 
 ### Screenshot
-![](screenshots/hello_controller.png)
+![](images/hello_controller.png)
 
 ---
 
@@ -82,7 +82,7 @@ Executed the Spring Boot application successfully.
 Verified that Tomcat started successfully without any errors.
 
 ### Screenshot
-![](screenshots/application_running.png)
+![](images/application_running.png)
 
 ---
 
@@ -98,7 +98,7 @@ Hello World!!
 ```
 
 ### Screenshot
-![](screenshots/browser_output.png)
+![](images/browser_output.png)
 
 ---
 
@@ -115,7 +115,7 @@ http://localhost:8083/hello
 Verified the response body.
 
 ### Screenshot
-![](screenshots/postman_output.png)
+![](images/postman_output.png)
 
 ---
 
@@ -127,7 +127,7 @@ Observed headers such as:
 - Connection
 
 ### Screenshot
-![](screenshots/postman_headers.png)
+![](images/postman_headers.png)
 
 ---
 
